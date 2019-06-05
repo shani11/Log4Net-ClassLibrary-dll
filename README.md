@@ -1,5 +1,6 @@
 # Log4Net-ClassLibrary-dll
 --Basic Log4Net dll that can be used by any project .NetCore 2.2
+# See this repo for implementation-- https://github.com/shani11/Log4Net-with-Log4Net_Logging-nuget/tree/master/Log4NetLogging_Project
 Steps to use this Nuget:
 1. Go to Nuget package manager and search Log4Net_Logging and install
 4.Add log4net.config to your solution with required configuration

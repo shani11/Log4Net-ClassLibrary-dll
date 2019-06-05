@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\bin\Release\netcoreapp2.2\Log4Net_Logging.deps.json
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\bin\Release\netcoreapp2.2\Log4Net_Logging.dll
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\bin\Release\netcoreapp2.2\Log4Net_Logging.pdb
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.dll
+C:\Users\ADMIN\source\repos\Log4Net_Logging\Log4Net_Logging\obj\Release\netcoreapp2.2\Log4Net_Logging.pdb
